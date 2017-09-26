@@ -19,4 +19,10 @@ Happy coding, have fun!
 
 You can use whichever code editor you prefer.
 
-We are going to use [Create Elm App](https://github.com/halfzebra/create-elm-app) to create and run the application.
+We are going to use [Create Elm App](https://github.com/halfzebra/create-elm-app) to set up and run the application.
+
+## Further Reading
+
+- [An Introduction to Elm](https://guide.elm-lang.org/)
+- Create Elm App [User Guide](https://github.com/halfzebra/create-elm-app/blob/74102bb3e90d3d659ee56c56fd02b179f2d85907/template/README.md)
+- [Elm Core Libraries](http://package.elm-lang.org/packages/elm-lang/core/5.1.1)
