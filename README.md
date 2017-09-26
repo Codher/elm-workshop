@@ -11,7 +11,15 @@
 
 Welcome to Codher's Elm Workshop!
 
-Let's challenge the status quo of Functional Programming in the world of User Interfaces! We are going to build an interactive experience in a purely functional language with the help of one of the most user-friendly compiler.
+Functional Programming is fun and easy if you learn by doing.
+
+Have you ever tried programming in a language, where compiler is your best friend? Imagine an app without errors at run-time.
+
+Sounds promising?
+
+Immutabile, Pure and Reactive by nature all that awailable now!
+
+Get an introduction to Elm Compiler and Time-Travelling Debugger and start coding!
 
 Level: Basic understanding of JavaScript
 
