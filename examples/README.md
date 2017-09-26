@@ -7,3 +7,9 @@ Make sure you have the latest stable version of [Node.js](https://nodejs.org/en/
 ```sh
 npm install create-elm-app -g
 ```
+
+Run [elm-reactor](https://github.com/elm-lang/elm-reactor) with Create Elm App:
+
+```
+elm-app reactor
+```
