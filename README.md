@@ -1,29 +1,29 @@
 # Codher Purely Functional Interfaces in Elm
 
-## Agenda
-
-- Getting started with Elm and Create Elm App
-- Intro into Functional Programming
-- Rendering HTML and CSS
-- Building interactive applications
-
 ## Introduction
 
 Welcome to Codher's Elm Workshop!
 
 Functional Programming is fun and easy if you learn by doing.
 
-Have you ever tried programming in a language, where compiler is your best friend? Imagine an app without errors at run-time.
+Have you ever tried programming in a language, where the compiler is your best friend? Imagine an app without errors at run-time.
 
 Sounds promising?
 
-Immutabile, Pure and Reactive by nature all that awailable now!
+Immutable, Pure and Reactive by nature all that available now!
 
 Get an introduction to Elm Compiler and Time-Travelling Debugger and start coding!
 
 Level: Basic understanding of JavaScript
 
 Happy coding, have fun!
+
+## Agenda
+
+- Getting started with Elm and Create Elm App
+- Intro into Functional Programming
+- Rendering HTML and CSS
+- Building interactive applications
 
 ## Recommended Software
 
