@@ -10,7 +10,13 @@ Have you ever tried programming in a language, where the compiler is your best f
 
 Sounds promising?
 
-Immutable, Pure and Reactive by nature all that available now!
+Immutable data types and structures make it easier to reason about how data changes in your program.
+
+Purity allows you to create deterministic and predictable functionality.
+
+Reactive nature of the Elm Architecture enables a straight-forward data-flow.
+
+Elm is Immutable, Pure and Reactive by nature and all of that is available to you now!
 
 Get an introduction to Elm Compiler and Time-Travelling Debugger and start coding!
 
